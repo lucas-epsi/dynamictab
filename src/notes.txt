@@ -1,0 +1,4 @@
+gerard		12
+michel		10
+jourdain		15
+15		15
