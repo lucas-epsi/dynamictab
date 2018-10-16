@@ -1,4 +1,4 @@
-gerard		12
-michel		10
-jourdain		15
-15		15
+Cedric		12
+Ganesh		15
+Lucas		15
+Yoan		16
